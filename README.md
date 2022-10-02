@@ -12,7 +12,7 @@
 <h3> Category Wise Product</h3>
 <h3> Cart System (order multiple item in single order)</h3>
 <h3> Checkout System </h3>
-<h3> Payment Gatway Integration </h3>
+<h3> Payment Gateway Integration </h3>
 <h3> Accept Payment from Paypal and RozarPay </h3>
 <h3> Local admin panel for adding products and categories</h3>
 <div style="text-align:center"> 
